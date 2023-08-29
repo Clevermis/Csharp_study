@@ -1,1 +1,1 @@
-# Csharp_study
+I don't know why I want to learn Csharp. Maybe it's because I want to get a job like this, or maybe I just like code. The knowledge in the warehouse is all information on the Internet. In the future, I will gradually supplement my understanding of Csharp, as well as the problems and solutions encountered in practice.
